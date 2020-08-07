@@ -19,6 +19,6 @@ function record() {
     });
 }
 
-function play() {
+function stopRec() {
     mediaRecorder.stop()
 }
